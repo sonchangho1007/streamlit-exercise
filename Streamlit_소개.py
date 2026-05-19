@@ -1,6 +1,6 @@
 import streamlit as st
 
-st.title('손창호의 개쩌는 어플')
+st.title('손창호의 어플')
 
 st.write('# 1. Markdown 텍스트 작성하기')
 
