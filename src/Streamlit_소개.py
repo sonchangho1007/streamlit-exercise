@@ -1,6 +1,6 @@
 import streamlit as st
 
-st.title('첫번째 웹 어플 ')
+st.title('손창호의 첫 어플')
 
 st.write('# 1. Markdown 텍스트 작성하기')
 
