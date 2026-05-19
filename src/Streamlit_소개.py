@@ -51,3 +51,8 @@ from PIL import Image
 st.write('# 4. 이미지 표시하기')
 img = Image.open('assets/chatgpt.jpg')
 st.image(img, width=300)
+
+"""
+이 부분은 파이썬 코드상으로는 단순 문자열이지만,
+:red[**Streamlit에서 자동으로 실제 컨텐츠처럼 렌더링 해줍니다.**]
+"""
